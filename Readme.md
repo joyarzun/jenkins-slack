@@ -5,11 +5,11 @@ Allow notifications to Slack from Jenkins with a simple Webhook
 
 ## Installation
 
-  `npm install jenkins-slack`
+  `npm install jenkins-slack --save`
 
 ## Usage
 
-    const App = require("./index");
+    const App = require("jenkins-slack");
     const config = {
       port: 8080
       token: "xoxb-XXXXXXXXX",
