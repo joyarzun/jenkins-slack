@@ -3,6 +3,10 @@ Jenkins Slack Notificator
 
 Allow notifications to Slack from Jenkins with a simple Webhook
 
+![Message](./slack.png "Message")
+
+In advance: The image is just referential :p
+
 ## Installation
 
   `npm install jenkins-slack --save`
